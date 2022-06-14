@@ -1,3 +1,5 @@
+# This is my personal blog built and modified from the starter template provided by [holger1411](https://github.com/holger1411). All thanks to him!!
+
 # 11straps = 11ty + Bootstrap5
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/64b42b0c-aeba-4583-b023-202fcdf571bb/deploy-status)](https://app.netlify.com/sites/11straps-demo/deploys)
