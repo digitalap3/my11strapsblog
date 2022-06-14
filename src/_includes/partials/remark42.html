@@ -1,0 +1,27 @@
+<section>
+   <div class="container">
+     <div class="row">
+         <h2 class="text-center mt-5">Comments</h2>
+         <h4>Feel free to make up a username and log in anonymously to comment</h4>
+          <div id="remark42"></div>
+        </div>
+  </div>
+</section>
+
+<script>
+  var remark_config = {
+    host: 'https://comments.imadigitalape.com',
+    site_id: 'comments.imadigitalape.com',
+    theme: 'light'
+  };
+
+  (function(c) {
+    for(var i = 0; i < c.length; i++){
+      var d = document, s = d.createElement('script');
+      s.src = remark_config.host + '/web/' +c[i] +'.js';
+      s.defer = true;
+      (d.head || d.body).appendChild(s);
+    }
+  })(remark_config.components || ['embed']);
+</script>
+

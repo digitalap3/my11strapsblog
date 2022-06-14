@@ -1,0 +1,65 @@
+{
+  "readCurrent":
+    {
+      "uri": "https://en.wikipedia.org/wiki/Death%27s_End",
+      "book": "Death's End",
+      "author": "Liu Cixin",
+      "comments": "The third in the series, these books have me thinking about space, physics, aliens, culture, and more in new ways - exactly everything a novel is supposed to do"
+    },
+  "readPrev": 
+    {
+      "uri": "https://en.wikipedia.org/wiki/The_Dark_Forest",
+      "book": "The Dark Forest",
+      "author": "Liu Cixin",
+      "comments": "Part of a really amazing series of science fiction works."
+    },
+  "readNext": 
+    {
+      "uri": "https://en.wikipedia.org/wiki/The_Kaiju_Preservation_Society",
+      "book": "The Kaiju Preservation Society",
+      "author": "John Scalzi",
+      "comments": "I've enjoyed all his works can't wait to dive into this one"
+    },
+  "watchCurrent": 
+    {
+      "uri": "https://en.wikipedia.org/wiki/Cowboy_Bebop_(2021_TV_series)",
+      "title": "Cowboy Bebop - Live Action",
+      "source": "Netflix",
+      "comments": "I have watched the anime several times and this series is just blowing me away.  They have managed to take something that was perfect and make it more perfect.  I am seriously considering quitting Netflix over this cancellation.  The stupidity of that decision is mind boggling."  
+    },
+  "watchPrev": 
+    {
+      "uri": "https://en.wikipedia.org/wiki/Russian_Doll_(TV_series)",
+      "title": "Russian Doll",
+      "source": "Netflix",
+      "comments": "I almost stopped watching this a couple of times but something just kept bringing me back.  Natasha Lyonne is a fantastic city-girl and I really love the way NYC is like a character in the show.  Overall it was really well done and a great story."
+    },
+  "watchNext": 
+    {
+      "uri": "https://en.wikipedia.org/wiki/Young_Justice_(TV_series)",
+      "title": "Young Justice",
+      "source": "HBO Max",
+      "comments": "I'm actually a couple of seasons into this already and I'll finish it up after Bebop.  It's really well done as are most if not all of DC's animated movies and series.  I don't know why they just don't get those folks to write and direct their movies."
+    },
+  "gameCurrent": 
+    {
+      "uri": "https://en.wikipedia.org/wiki/Arma_(series)#ARMA_Reforger", 
+      "title": "Arma Reforger",
+      "source": "Bohemia Interactive, Steam",
+      "comments": "I have been a huge fan of the Arma series since Arma 2.  I have the most hours of any game ever in DayZ mod and I doubt that will ever change.  The mods are amazing.  Once you get used to this level of movement in a shooter - prone, different levels of crouching, leaning, combat movement, being able to look around independant of movement direction - anything else just feels subpar."
+    },
+  "gamePrev": 
+    {
+      "uri": "https://en.wikipedia.org/wiki/Space_Engineers",
+      "title": "Space Engineers",
+      "source": "Keen, Steam",
+      "comments": "Like Arma, I frequently come back to this game and I buy all DLCs to support it even if I'm not currently playing.  It is an incredible masterpiece of a game and still improving.  I can't recommend it enough to anyone but I never hesitate to try and get my engineering friends to try it."
+    },
+  "gameNext": 
+    {
+      "uri": "https://en.wikipedia.org/wiki/Valheim",
+      "title": "Valheim",
+      "source": "Coffee Stain Studios, Steam",
+      "comments": "I played this a lot when it first came out and I'm definitely jumping back in when the Mistlands update drops."
+    }
+}

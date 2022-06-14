@@ -1,0 +1,30 @@
+ <!-- Footer -->
+  <footer>
+    <div class="container text-light bg-info">
+      <div class="row">
+        <div class="col ml-5 mt-3">
+          <ul class="text-start">
+            <li>
+		    powered by:   <a href="{{ site.ssgEngURL }}" aria-label="{{ site.ssgEng }}" target="_blank">{{ site.ssgEng }}</a>
+            </li>
+            <li>
+		    bootstrap template:  <a href="{{ site.blogTmplateURL }}" aria-label="{{ site.blogTmplate }}" target="_blank">{{ site.blogTmplate }} </a>
+            </li>
+          </ul>
+        </div>
+        <div class="col mr-5 mt-3">
+          <ul class="text-end">
+            <li>
+		    view code on:   <a href="{{ site.repoURL }}" aria-label="{{ site.repo }}" target="_blank" >{{ site.repo }} </a> 
+            </li>
+            <li>
+		    comments using:   <a href="{{ site.commentEngineURL }}" aria-label="{{ site.commentEngine }}" target="_blank" >{{ site.commentEngine }} </a>
+            </li>
+           </ul>
+      </div>
+    </div>
+      <div class="row mxauto">
+          <p class="copyright text-center text-light mb-2 ml-3">Copyright &copy; digitalap3 2022</p>
+        </div>
+    </div>
+  </footer>

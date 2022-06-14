@@ -1,0 +1,18 @@
+
+<!-- Page Header -->
+<header class="masthead" style="background-image: url('{{ site.imgSrc }}{{ headerPic }}');background-size:cover;background-position:center;">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading text-center">
+            <h1>{{ pageHeaderTitle }}</h1>
+            <span class="meta">by {{ creator }}       
+	    {% if pageHeaderSummary %}	    
+              {{ pageHeaderSummary | safe }}
+	    {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
